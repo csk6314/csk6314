@@ -21,5 +21,5 @@
   </br>
   </br>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsk6314&count_bg=%233299FF&title_bg=%232DD7CB&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsk6314&count_bg=%2367CAAD&title_bg=%2348B293&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
 </p>
