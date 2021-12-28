@@ -1,10 +1,5 @@
 
-<span style="color:green">SeungKyuCHAE</span>
-<hr/>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsk6314&count_bg=%233299FF&title_bg=%232DD7CB&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
-</p>
-<h4 align="center">🟢&nbsp;&nbsp;Stat</h4>
+<h1 align="center">SeungKyuCHAE</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=csk6314&theme=vue&show_icons=true" />
 </p>
@@ -22,3 +17,8 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </p>
+  </br>
+  </br>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsk6314&count_bg=%233299FF&title_bg=%232DD7CB&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
+</p>
