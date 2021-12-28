@@ -1,3 +1,24 @@
-## SeungKyu CHAE
-<img src="https://github-readme-stats.vercel.app/api?username=csk6314&show_icons=true&count_private=true&theme=dark" />
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsk6314&count_bg=%231F2743&title_bg=%232D2D2D&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
+
+<span style="color:green">SeungKyuCHAE</span>
+<hr/>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsk6314&count_bg=%233299FF&title_bg=%232DD7CB&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
+</p>
+<h4 align="center">🟢&nbsp;&nbsp;Stat</h4>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=csk6314&theme=vue&show_icons=true" />
+</p>
+<h4 align="center">Language</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  </p>
+  <p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </p>
