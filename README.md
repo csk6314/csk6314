@@ -1,8 +1,9 @@
 
 <h1 align="center">SeungKyuCHAE</h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=csk6314&theme=vue&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=csk6314&theme=vue&show_icons=true&bg_color=45,FFFFFF,DDFFE7" height="220px"/>
 </p>
+
 <h4 align="center">Language</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
