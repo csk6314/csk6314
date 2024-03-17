@@ -1,27 +1,23 @@
+# Chae Seungkyu ☺️
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cotmdrb@gmail.com)](mailto:cotmdrb@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:csk9908@naver.com)](mailto:csk9908@naver.com)
+[![Tistory Badge](http://img.shields.io/badge/tistory-white?style=flat-square&logo=tistory&logoColor=black&link=https://csk6314.tistory.com/)](https://csk6314.tistory.com/)
+<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=csk6314)](https://solved.ac/csk6314/)
+## Education 
+**2018.03 ~ 2024.02** - 충남대학교 컴퓨터공학과 졸업
+## Experience
+😂😂
+## Tech
+**Front-end** <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.js-black.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 
-<h1 align="center">SeungKyuCHAE</h1>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=csk6314&theme=vue&show_icons=true&bg_color=45,FFFFFF,DDFFE7" height="220px"/>
-</p>
-
-<h4 align="center">Language</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  </p>
-  <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </p>
-  </br>
-  </br>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcsk6314&count_bg=%2367CAAD&title_bg=%2348B293&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false"/></a>
-</p>
+**Back-end** <br/>
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
